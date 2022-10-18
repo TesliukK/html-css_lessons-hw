@@ -1,3 +1,28 @@
-.card   {
 
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.card1 {
+    margin: 120px;
+    box-sizing: border-box;
+    background: gainsboro;
+    width: 450px;
+    height: 650px;
+    align-items: center;
+    text-align: center;
+    font-family: "Roboto Light";
+    font-size: 30px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.button {
+    background: white;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
 }
