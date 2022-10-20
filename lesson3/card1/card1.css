@@ -3,7 +3,10 @@
     justify-content: space-evenly;
     background: antiquewhite;
 }
-
+.cont {
+    display: flex;
+    justify-content: space-evenly;
+}
 .card {
     background: white;
     box-sizing: border-box;
@@ -38,3 +41,4 @@
     width: 200px;
     height: 100px;
     border-radius: 10px;
+}
