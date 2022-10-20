@@ -1,0 +1,57 @@
+.top {
+    display: flex;
+    background: #ced8e1;
+    width: 100%;
+    height: 10vh;
+}
+
+.container-top {
+    box-sizing: border-box;
+    width: 10%;
+    height: 7vh;
+    background: #10293e;
+    margin-top: 1.5vh;
+    margin-left: 5%;
+    border-radius: 20px;
+}
+
+.icons {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    left: 150vh;
+    padding: 20px;
+}
+
+.fa-magnifying-glass {
+    font-size: 50px;
+    color: #6964e4;
+}
+
+.fa-bars {
+    font-size: 50px;
+    color: #6964e4;
+    margin-left: 50px;
+}
+.middle {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width: 100%;
+    height: 60vh;
+    background: #10293e;
+}
+.card {
+    position: relative;
+    width: 30vh;
+    height: 30vh;
+    background: #6964e4;
+    top: 15vh;
+    border-radius: 20px;
+
+}
+.bottom {
+    width: 100%;
+    height: 30vh;
+    background: #ced8e1;
+}
