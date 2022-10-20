@@ -18,8 +18,8 @@
 .icons {
     position: relative;
     display: flex;
-    justify-content: center;
-    left: 150vh;
+    justify-content: right;
+    left: 700%;
     padding: 20px;
 }
 
@@ -43,7 +43,7 @@
 }
 .card {
     position: relative;
-    width: 30vh;
+    width: 17%;
     height: 30vh;
     background: #6964e4;
     top: 15vh;
