@@ -35,19 +35,21 @@
 }
 .middle {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: flex-end;
     width: 100%;
     height: 60vh;
     background: #10293e;
 }
+
 .card {
     position: relative;
+    margin: 20px;
     width: 17%;
     height: 30vh;
     background: #6964e4;
     top: 15vh;
-    border-radius: 20px;
+    border-radius: 40px;
 
 }
 .bottom {
