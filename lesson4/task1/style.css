@@ -8,6 +8,29 @@
     height: 30vh;
     background: darkseagreen;
     border-radius: 20px;
+}
+.bottom {
+    display: flex;
+    box-sizing: border-box;
+    padding: 30px;
+    padding-top: 0;
+
+}
+.left {
+    width: 70%;
+    height: 55vh;
+    background: #969696;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-right: 30px;
+
+}
+.right {
+    width: 30%;
+    height: 55vh;
+    background: #ff9526;
+    border-radius: 20px;
+}
 
 
 
